@@ -1,2 +1,2 @@
 # NetCDF-plot-wind-year-average
-Comparing U and V wind components from NetCDF
+Comparing U + V wind components from NetCDF and plotting year average
